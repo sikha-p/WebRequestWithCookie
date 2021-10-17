@@ -1,0 +1,6 @@
+C:\Users\Sikha.P\source\repos\WebRequestWithCookie\obj\Debug\WebRequestWithCookie.csprojAssemblyReference.cache
+C:\Users\Sikha.P\source\repos\WebRequestWithCookie\obj\Debug\WebRequestWithCookie.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\WebRequestWithCookie\bin\Debug\WebRequestWithCookie.dll
+C:\Users\Sikha.P\source\repos\WebRequestWithCookie\bin\Debug\WebRequestWithCookie.pdb
+C:\Users\Sikha.P\source\repos\WebRequestWithCookie\obj\Debug\WebRequestWithCookie.dll
+C:\Users\Sikha.P\source\repos\WebRequestWithCookie\obj\Debug\WebRequestWithCookie.pdb
